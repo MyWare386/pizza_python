@@ -16,6 +16,7 @@ Contents
 - <a href="https://github.com/MyWare386/pizza_python#news">News</a>
 - <a href="https://github.com/MyWare386/pizza_python#note">News</a>
 - <a href="https://github.com/MyWare386/pizza_python#installation">Installation</a>
+  - <a href="https://github.com/MyWare386/pizza_python#librairies">Librairies</a>
   - <a href="https://github.com/MyWare386/pizza_python#executable">Executable</a>
   - <a href="https://github.com/MyWare386/pizza_python#python">Python</a>
   - <a href="https://github.com/MyWare386/pizza_python#other">Other</a>
@@ -40,6 +41,10 @@ Note
 
 Installation
 ----------------
+
+- <h3>Librairies</h3>
+
+<br>
 
 - <h3>Executable</h3>
 
