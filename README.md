@@ -14,11 +14,11 @@ Contents
 
 - <a href="https://github.com/MyWare386/pizza_python#contents">Contents</a>
 - <a href="https://github.com/MyWare386/pizza_python#news">News</a>
-- <a href="https://github.com/MyWare386/python_text_editor#installation">Installation</a>
-  - <a href="https://github.com/MyWare386/python_text_editor#executable">Executable</a>
-  - <a href="https://github.com/MyWare386/python_text_editor#python">Python</a>
-  - <a href="https://github.com/MyWare386/python_text_editor#other">Other</a>
-- <a href="https://github.com/MyWare386/python_text_editor#credits">Credits</a>
+- <a href="https://github.com/MyWare386/pizza_python#installation">Installation</a>
+  - <a href="https://github.com/MyWare386/pizza_python#executable">Executable</a>
+  - <a href="https://github.com/MyWare386/pizza_python#python">Python</a>
+  - <a href="https://github.com/MyWare386/pizza_python#other">Other</a>
+- <a href="https://github.com/MyWare386/pizza_python#credits">Credits</a>
 
 <br>
 
