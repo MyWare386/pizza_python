@@ -140,3 +140,8 @@ print("--------------------------------------------------")
 print("")
 print(Fore.YELLOW + 'Reçu de commande : ' + Style.RESET_ALL)
 pprint(answers)
+
+print("")
+print("--------------------------------------------------")
+print("")
+input("Appuyez sur ENTRÉE pour terminer le programme.")
