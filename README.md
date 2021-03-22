@@ -25,25 +25,26 @@ Contents
 News
 ----------------
 
+- 22/03/2021 : _English is coming soon_
 - 22/03/2021 : _You can buy your pizza with Pizza Python !_
+
+<br>
+
+Note
+---------------
+
+- The program is in French 🇫🇷
 
 <br>
 
 Installation
 ----------------
 
-| ⚠️ Maybe, you will need to change the directory for the editor's icon ⚠️
-|---
-
 - <h3>Executable</h3>
 
-Go to the exe directory.
+Download and unzip the "python_pizza_exe.zip".
 
-Choose the theme that you want : dark or white.
-
-Download and unzip the "texteditor_[your-color]_exe.zip".
-
-Launch the "texteditor_[your-color].exe".
+Launch the "python_pizza.exe".
 
 <br>
 
@@ -52,11 +53,13 @@ Launch the "texteditor_[your-color].exe".
 | ⚠️ Python must be installed on your computer
 |---
 
-Choose the theme that you want : dark or white.
-
 Write this line in the command prompt :
 
-<code>py \pathto\texteditor_[your-color].py</code>
+<code>py \pathto\python_pizza.py</code>
+
+OR
+
+Just launch the "python_pizza.py".
 
 <br>
 
