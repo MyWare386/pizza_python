@@ -3,6 +3,10 @@ You want a pizza ? Just use Pizza Python
 
 <br>
 
+🐍 🍕
+
+<br>
+
 Contents
 ----------------
 
