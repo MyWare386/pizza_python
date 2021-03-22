@@ -12,8 +12,8 @@ Just use Pizza Python
 Contents
 ----------------
 
-- <a href="https://github.com/MyWare386/python_text_editor#contents">Contents</a>
-- <a href="https://github.com/MyWare386/python_text_editor#news">News</a>
+- <a href="https://github.com/MyWare386/pizza_python#contents">Contents</a>
+- <a href="https://github.com/MyWare386/pizza_python#news">News</a>
 - <a href="https://github.com/MyWare386/python_text_editor#installation">Installation</a>
   - <a href="https://github.com/MyWare386/python_text_editor#executable">Executable</a>
   - <a href="https://github.com/MyWare386/python_text_editor#python">Python</a>
