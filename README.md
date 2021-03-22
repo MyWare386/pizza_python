@@ -1,5 +1,7 @@
 # pizza_python
-You want a pizza ? Just use Pizza Python
+You want a pizza ? 
+
+Just use Pizza Python
 
 <br>
 
@@ -23,8 +25,7 @@ Contents
 News
 ----------------
 
-- 21/03/2021 : _Python text Editor website is done_
-- 20/03/2021 : _Python Text Editor is released_
+- 22/03/2021 : _You can buy your pizza with Pizza Python !_
 
 <br>
 
