@@ -46,9 +46,9 @@ Installation
 
 You must install :
 
-  - Regex : write this line in the cmd <code>pip install regex</code>
-  - PyInquirer : write this line in the cmd <code>pip install PyInquirer</code>
-  - Colorama : PyInquirer : write this line in the cmd <code>pip install colorama</code>
+  - Regex : write this line in the cmd -> <code>pip install regex</code>
+  - PyInquirer : write this line in the cmd -> <code>pip install PyInquirer</code>
+  - Colorama : PyInquirer : write this line in the cmd -> <code>pip install colorama</code>
 
 <br>
 
