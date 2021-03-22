@@ -14,6 +14,7 @@ Contents
 
 - <a href="https://github.com/MyWare386/pizza_python#contents">Contents</a>
 - <a href="https://github.com/MyWare386/pizza_python#news">News</a>
+- <a href="https://github.com/MyWare386/pizza_python#note">News</a>
 - <a href="https://github.com/MyWare386/pizza_python#installation">Installation</a>
   - <a href="https://github.com/MyWare386/pizza_python#executable">Executable</a>
   - <a href="https://github.com/MyWare386/pizza_python#python">Python</a>
