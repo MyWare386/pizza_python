@@ -67,7 +67,7 @@ Launch the "python_pizza.exe".
 
 Write this line in the command prompt :
 
-<code>py \pathto\python_pizza.py</code>
+    py \pathto\python_pizza.py
 
 OR
 
