@@ -44,6 +44,11 @@ Installation
 
 - <h3>Librairies</h3>
 
+You must install :
+
+  - Regex : write this line in the cmd <code>pip install regex</code>
+  - Regex : write this line in the cmd <code>pip install regex</code>
+
 <br>
 
 - <h3>Executable</h3>
