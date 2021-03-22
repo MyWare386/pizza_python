@@ -67,50 +67,6 @@ Or you can run the compiled pyhton file (.pyc).
 
 <br>
 
-Dark Mode
-----------------
-
-To use the dark mode, you must choose "texteditor_dark.exe/.py" when you install the editor.
-
-<br>
-
-White Mode
-----------------
-
-To use the dark mode, you must choose "texteditor_white.exe/.py" when you install the editor.
-
-<br>
-
-Gallery
------------------
-
-Here are some pictures of the editor :
-
-- Dark Mode : 
-
-<img src="readmefiles/Dark_Theme.JPG" />
-
-- White Mode : 
-
-<img src="readmefiles/White_Theme.JPG" />
-
-- Logo (black) : 
-
-<img src="logo.ico" />
-
-- Logo (white) : 
-
-<img src="logo%20(white).ico" />
-
-<br>
-
-Web
--------------------------------
-
-The website of the editor : https://myware386.github.io/python_text_editor/ where you have everything you need. 
-
-<br>
-
 Credits
 --------------------------------
 
