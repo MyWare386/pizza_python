@@ -27,7 +27,7 @@ Contents
 News
 ----------------
 
-- 22/03/2021 : _English is coming soon_
+- 22/03/2021 : _English version is coming soon_
 - 22/03/2021 : _You can buy your pizza with Pizza Python !_
 
 <br>
