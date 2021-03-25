@@ -71,7 +71,7 @@ Write this line in the command prompt :
 
 OR
 
-Just launch the "python_pizza.py".
+Just launch the <code>"python_pizza.py"</code>.
 
 <br>
 
