@@ -86,6 +86,6 @@ Or you can run the compiled pyhton file (<code>.pyc</code>).
 Credits
 --------------------------------
 
-Project made with Python by <a href="https://myware386.github.io/myware-website/">MyWare</a>.
+Project made with Python by <a href="https://myware386.github.io/myware-website/">**MyWare**</a>.
 
 Inspired by a tutorial.
