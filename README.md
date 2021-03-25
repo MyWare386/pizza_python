@@ -54,7 +54,7 @@ You must install :
 
 - <h3>Executable</h3>
 
-Download and unzip the "python_pizza_exe.zip".
+Download and unzip the <code>"python_pizza_exe.zip"</code>.
 
 Launch the "python_pizza.exe".
 
