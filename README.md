@@ -56,7 +56,7 @@ You must install :
 
 Download and unzip the <code>"python_pizza_exe.zip"</code>.
 
-Launch the "python_pizza.exe".
+Launch the <code>"python_pizza.exe"</code>.
 
 <br>
 
