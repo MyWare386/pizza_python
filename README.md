@@ -79,7 +79,7 @@ Just launch the <code>"python_pizza.py"</code>.
 
 Some code editor let you execute python files directly.
 
-Or you can run the compiled pyhton file (.pyc).
+Or you can run the compiled pyhton file (<code>.pyc</code>).
 
 <br>
 
